@@ -2,7 +2,9 @@
 
 ## Link to the web application: https://caaa120f-80a7-4012-89bf-5049ccfa6b8b.weweb-preview.io/login/
 
-## Link to the mobile application: https://build.draftbit.com/share/Luue6Lb3
+## QR Code for the mobile application:
+
+![QR Code](./assets/mobile-qr.png)
 
 Download Draftbit Preview app on your phone and scan the QR code to see the app.
 
